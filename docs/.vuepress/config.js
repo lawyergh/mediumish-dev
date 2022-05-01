@@ -18,6 +18,12 @@ module.exports = {
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
       },
+      {
+        name: 'Автор',
+        avatar: '/assets/img/avatar.png',
+        link: 'https://bootstrapstarter.com/',
+        linktext: 'Follow',
+      }
     ],
     smoothScroll: true
   },
