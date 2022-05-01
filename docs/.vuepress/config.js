@@ -10,16 +10,19 @@ module.exports = {
         name: 'Sal',
         avatar: '/assets/img/sal.jpg',
         link: 'mailto:lawyergh@protonmail.com',
+        linktext: 'Email',
       },
       {
         name: 'John Doe',
         avatar: '/assets/img/avatar.png',
         link: 'mailto:lawyergh@protonmail.com',
+        linktext: 'Email',
       },
       {
         name: 'Автор',
         avatar: '/assets/img/avatar.png',
         link: 'mailto:lawyergh@protonmail.com',
+        linktext: 'Email',
       }
     ],
     smoothScroll: true
