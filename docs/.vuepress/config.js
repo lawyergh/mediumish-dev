@@ -5,12 +5,7 @@ module.exports = {
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
-    authors: [
-      {
-        name: 'Sal',
-        avatar: '/assets/img/sal.jpg',
-      },
-    ],
+    authors: [],
     smoothScroll: true
   },
 }
