@@ -7,9 +7,9 @@ module.exports = {
   themeConfig: {
     authors: [
       {
-        name: 'Юрист',
-        avatar: '/assets/img/lawyer.jpeg',
-      }
+        name: 'Sal',
+        avatar: '/assets/img/sal.jpg',
+      },
     ],
     smoothScroll: true
   },
