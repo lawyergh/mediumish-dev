@@ -9,20 +9,14 @@ module.exports = {
       {
         name: 'Sal',
         avatar: '/assets/img/sal.jpg',
-        link: 'https://wowthemes.net/donate',
-        linktext: 'Follow',
       },
       {
         name: 'John Doe',
         avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
       },
       {
         name: 'Автор',
         avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
-        linktext: 'Follow',
       }
     ],
     smoothScroll: true
